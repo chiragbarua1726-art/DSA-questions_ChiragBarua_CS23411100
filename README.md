@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-design-parking-system](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1603-design-parking-system) |
 | [1701-average-waiting-time](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1701-average-waiting-time) |
+| [2390-removing-stars-from-a-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
