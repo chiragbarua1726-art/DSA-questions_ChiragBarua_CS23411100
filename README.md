@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1701-average-waiting-time) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1189-maximum-number-of-balloons) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
