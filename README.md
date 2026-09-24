@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
