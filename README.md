@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1701-average-waiting-time](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1701-average-waiting-time) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1189-maximum-number-of-balloons) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0986-interval-list-intersections) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sweep Line
 |  |
 | ------- |
