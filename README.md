@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1701-average-waiting-time](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1701-average-waiting-time) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
