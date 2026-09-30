@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sweep Line
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1603-design-parking-system](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1603-design-parking-system) |
+| [1657-determine-if-two-strings-are-close](https://github.com/chiragbarua1726-art/DSA-questions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Recursion
 |  |
 | ------- |
